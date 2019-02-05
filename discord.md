@@ -3,6 +3,10 @@ https://github.com/Snivyn/NERYS-product-monitor
 
 found on twitter product monitor 
 
+## repl 
+
+https://www.codementor.io/garethdwyer/building-a-discord-bot-with-python-and-repl-it-miblcwejz
+
 supreme webhook
 
 https://discordapp.com/api/webhooks/538126051658825730/73eeBeORVuXmhuGNSWpntBvfJ-c9QUltHAkoQa24WY1ZpRg6bAkAUCs84Q9rPfrBBwBg
